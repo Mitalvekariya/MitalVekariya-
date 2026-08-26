@@ -1,7 +1,6 @@
-# MitalVekariya
 <div align="center">
   <h1>Hi, I'm Mital Vekariya 👋</h1>
-  <p><strong>Cybersecurity Analyst | Ethical Hacker | SecOps Specialist</strong></p>
+  <p><strong>Cybersecurity Analyst | Certified Ethical Hacker | SecOps Specialist</strong></p>
 </div>
 
 ---
@@ -25,36 +24,32 @@ Below are the key industry milestones validating my specialized technical domain
 
 ---
 
-### 🛠️ Professional Skill Set
-<p>
-  <!-- Offensive & Def Security -->
-  <img src="https://shields.io" alt="Ethical Hacking" />
-  <img src="https://shields.io" alt="Penetration Testing" />
-  <img src="https://shields.io" alt="SecOps" />
-  <img src="https://shields.io" alt="Vulnerability Management" />
-</p>
+### 🛠️ Professional Skill Set & Icons
 
-#### 💻 Technical Arsenal
-*   **Operating Systems:** Linux (Kali, Parrot OS, Ubuntu), Windows Server
-*   **Languages & Scripting:** Python, Bash, PowerShell (for log parsing and automation)
-*   **Security Controls & Tools:** Nmap, Wireshark, Burp Suite, Metasploit, Nessus
+Here are the primary technologies and operating environments I deploy:
+
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+#### 🔥 Security Domains & Frameworks
+*   **Offensive Operations:** Penetration Testing, Vulnerability Scanning, Automated Exploit Framing
+*   **Defensive Guardrails:** Security Architecture Engineering, Log Evaluation, System Hardening
+*   **Tooling Suite:** Nmap, Wireshark, Burp Suite, Metasploit, Nessus
 
 ---
 
 ### 📊 GitHub Activity & Metrics
-<p align="center">
+
+<div align="center">
   <img src="https://vercel.app" alt="Mital's GitHub Stats" width="48%" />
   <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+</div>
 
 ---
 
 ### 📬 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+
+<div align="center">
+
+[![GitHub](https://MitalVekariya)](https://github.com)
+
+</div>
