@@ -24,43 +24,7 @@ Below are the key industry milestones validating my specialized technical domain
 
 ---
 
-### 🛠️ Professional Skill Set & Icons
 
-### 🛠️ Cybersecurity Skill Set
-
-<p align="left">
-  <!-- Offensive & Kali Linux -->
-  <img src="https://shields.io" alt="Kali Linux" />
-  <!-- Penetration Testing / Hack The Box -->
-  <img src="https://shields.io" alt="Penetration Testing" />
-  <!-- WIRESHARK -->
-  <img src="https://shields.io" alt="Wireshark" />
-  <!-- METASPLOIT -->
-  <img src="https://shields.io" alt="Metasploit" />
-</p>
-
-<p align="left">
-  <!-- Cyber Security General -->
-  <img src="https://shields.io" alt="Cybersecurity" />
-  <!-- Linux -->
-  <img src="https://shields.io" alt="Linux" />
-  <!-- Network Security -->
-  <img src="https://shields.io" alt="Network Security" />
-</p>
-(https://skillicons.dev)](https://skillicons.dev)
-📊 GitHub Activity & Metrics
-
-<p align="center">
-  <!-- GitHub Profile Views Badge -->
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <!-- Central Analytics Card -->
-  <img src="https://vercel.app" alt="Mital's GitHub Stats" width="48%" />
-  <!-- Most-used Language Metric -->
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
 
 
 #### 🔥 Security Domains & Frameworks
