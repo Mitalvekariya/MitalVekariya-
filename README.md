@@ -19,14 +19,35 @@ Below are the key industry milestones validating my specialized technical domain
 
 *   **CEHv13 (Certified Ethical Hacker)** | *EC-Council*
     *   *Focus:* AI-driven reconnaissance, automated threat detection, predictive breach analysis, and advanced network scanning techniques.
-*   **Certified Cybersecurity Specialist (CCS)** | *ISACA*
+*   **Certified Cybersecurity Specialist (CCS)** | 
     *   *Focus:* Secure-by-design architecture, system hardening, and comprehensive security operations.
 
 ---
 
 ### 🛠️ Professional Skill Set & Icons
 
-Here are the primary technologies and operating environments I deploy:
+### 🛠️ Cybersecurity Skill Set
+
+<p align="left">
+  <!-- Offensive & Kali Linux -->
+  <img src="https://shields.io" alt="Kali Linux" />
+  <!-- Penetration Testing / Hack The Box -->
+  <img src="https://shields.io" alt="Penetration Testing" />
+  <!-- WIRESHARK -->
+  <img src="https://shields.io" alt="Wireshark" />
+  <!-- METASPLOIT -->
+  <img src="https://shields.io" alt="Metasploit" />
+</p>
+
+<p align="left">
+  <!-- Cyber Security General -->
+  <img src="https://shields.io" alt="Cybersecurity" />
+  <!-- Linux -->
+  <img src="https://shields.io" alt="Linux" />
+  <!-- Network Security -->
+  <img src="https://shields.io" alt="Network Security" />
+</p>
+
 
 [![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
@@ -36,20 +57,5 @@ Here are the primary technologies and operating environments I deploy:
 *   **Tooling Suite:** Nmap, Wireshark, Burp Suite, Metasploit, Nessus
 
 ---
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://vercel.app" alt="Mital's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</div>
-
----
-
-### 📬 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://MitalVekariya)](https://github.com)
 
 </div>
