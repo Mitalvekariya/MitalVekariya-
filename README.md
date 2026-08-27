@@ -10,7 +10,7 @@
 ---
 
 ### 🛡️ About Me
-I am a driven **Cybersecurity Analyst** dedicated to hardening infrastructures, identifying critical vulnerabilities, and implementing robust security architectures. I specialize in bridging offensive and defensive security practices to create resilient systems.
+I am a driven **Cybersecurity Analyst** dedicated to hardening infrastructures, identifying critical vulnerabilities, and implementing robust security architectures. I specialize in bridging offensive and defensive operations.
 
 - 🚀 **Current Focus:** Threat Modeling, Network Security Operations, and Vulnerability Management.
 - 💡 **Core Philosophy:** Secure by design, resilient by implementation.
@@ -32,6 +32,29 @@ Below are the key industry milestones validating my specialized technical domain
 *   **Offensive Operations:** Penetration Testing, Vulnerability Scanning, Automated Exploit Framing
 *   **Defensive Guardrails:** Security Architecture Engineering, Log Evaluation, System Hardening
 *   **Tooling Suite:** Nmap, Wireshark, Burp Suite, Metasploit, Nessus
+
+---
+
+### 🛠️ Cybersecurity Tools & Technologies
+
+<div align="center">
+
+| Tool | Purpose | Icon |
+|------|---------|------|
+| **Nmap** | Network Reconnaissance & Port Scanning | 🔍 |
+| **Wireshark** | Network Protocol Analysis | 📊 |
+| **Burp Suite** | Web Application Security Testing | 🕷️ |
+| **Metasploit** | Penetration Testing Framework | ⚔️ |
+| **Nessus** | Vulnerability Assessment & Management | 🔎 |
+| **Kali Linux** | Penetration Testing Distribution | 🐉 |
+| **Splunk** | Security Information & Event Management (SIEM) | 📈 |
+| **OpenVAS** | Vulnerability Scanning & Assessment | 🎯 |
+| **Hashicorp Vault** | Secrets Management | 🔐 |
+| **Snort/Suricata** | Intrusion Detection Systems (IDS) | 🚨 |
+| **OWASP ZAP** | Dynamic Application Security Testing | ⚡ |
+| **Git & GitHub** | Version Control & Collaboration | 🌐 |
+
+</div>
 
 ---
 
