@@ -2,14 +2,15 @@
   <h1>Hi, I'm Mital Vekariya 👋</h1>
   <p><strong>Cybersecurity Analyst | Certified Ethical Hacker | SecOps Specialist</strong></p>
   <p>
-    <a href="https://github.com/Mitalvekariya">GitHub Profile</a>
+    <a href="https://github.com/Mitalvekariya">GitHub Profile</a> • 
+    <a href="https://github.com/Mitalvekariya">Visit My GitHub</a>
   </p>
 </div>
 
 ---
 
 ### 🛡️ About Me
-I am a driven **Cybersecurity Analyst** dedicated to hardening infrastructures, identifying critical vulnerabilities, and implementing robust security architectures. I specialize in bridging offensive[...]
+I am a driven **Cybersecurity Analyst** dedicated to hardening infrastructures, identifying critical vulnerabilities, and implementing robust security architectures. I specialize in bridging offensive and defensive security practices to create resilient systems.
 
 - 🚀 **Current Focus:** Threat Modeling, Network Security Operations, and Vulnerability Management.
 - 💡 **Core Philosophy:** Secure by design, resilient by implementation.
@@ -27,9 +28,6 @@ Below are the key industry milestones validating my specialized technical domain
 
 ---
 
-
-
-
 #### 🔥 Security Domains & Frameworks
 *   **Offensive Operations:** Penetration Testing, Vulnerability Scanning, Automated Exploit Framing
 *   **Defensive Guardrails:** Security Architecture Engineering, Log Evaluation, System Hardening
@@ -37,4 +35,6 @@ Below are the key industry milestones validating my specialized technical domain
 
 ---
 
-</div>
+<p align="center">
+  <a href="https://github.com/Mitalvekariya">⭐ Star my GitHub Profile</a>
+</p>
