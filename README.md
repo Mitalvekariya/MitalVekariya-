@@ -39,9 +39,9 @@ Below are the key industry milestones validating my specialized technical domain
 
 <div align="center">
 
-| Tool | Purpose | Icon |
+
 |------|---------|------|
-| **Nmap** | Network Reconnaissance & Port Scanning | <img src="https://nmap.org/images/nmap-logo.png" width="40" height="40" alt="Nmap"> |
+| <img src="https://nmap.org/images/nmap-logo.png" width="40" height="40" alt="Nmap"> |
 | **Wireshark** | Network Protocol Analysis | <img src="https://www.wireshark.org/download/win64/Wireshark_Icon_128x128.png" width="40" height="40" alt="Wireshark"> |
 | **Burp Suite** | Web Application Security Testing | <img src="https://portswigger.net/burp/icon.png" width="40" height="40" alt="Burp Suite"> |
 | **Metasploit** | Penetration Testing Framework | <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/logo.png" width="40" height="40" alt="Metasploit"> |
