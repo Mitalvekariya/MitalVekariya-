@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Mital Vekariya 👋</h1>
-  <p><strong>Cybersecurity Analyst | Certified Ethical Hacker | SecOps Specialist</strong></p>
+  <p><strong>Cybersecurity Analyst | Certified Ethical Hacker</strong></p>
   <p>
     <a href="https://github.com/Mitalvekariya">GitHub Profile</a> • 
     <a href="https://github.com/Mitalvekariya">Visit My GitHub</a>
@@ -23,8 +23,8 @@ Below are the key industry milestones validating my specialized technical domain
 
 *   **CEHv13 (Certified Ethical Hacker)** | *EC-Council*
     *   *Focus:* AI-driven reconnaissance, automated threat detection, predictive breach analysis, and advanced network scanning techniques.
-*   **Certified Cybersecurity Specialist (CCS)** | 
-    *   *Focus:* Secure-by-design architecture, system hardening, and comprehensive security operations.
+*   **Certified Cybersecurity Specialist (CCS)** 
+    
 
 ---
 
