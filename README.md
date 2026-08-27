@@ -1,10 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Mital Vekariya 👋</h1>
   <p><strong>Cybersecurity Analyst | Certified Ethical Hacker</strong></p>
-  <p>
-    <a href="https://github.com/Mitalvekariya">GitHub Profile</a> • 
-    <a href="https://github.com/Mitalvekariya">Visit My GitHub</a>
-  </p>
+  
 </div>
 
 ---
